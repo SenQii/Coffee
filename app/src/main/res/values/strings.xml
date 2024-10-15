@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Coffee</string>
+
+    <string name="toOrderBtn">Make An Order</string>
+    <string name="toRatingBtn">Rate Our Service</string>
+
+    <string name="Q1">What kind of coffee?</string>
+    <string name="Q2">What else do you like in your coffee?</string>
+
+    <string name="A11">Decaf</string>
+    <string name="A12">Espresso</string>
+    <string name="A13">Colombian</string>
+    <string name="A14">Cappuccino</string>
+
+    <string name="A21">Milk</string>
+    <string name="A22">Sugar</string>
+    <string name="A23">Cream</string>
+    <string name="A24">Vanilla</string>
+
+    <string name="confirmOrder">Confirm Order</string>
+
+
+    <string name="cusName">Name</string>
+    <string name="cusComment">Comment</string>
+    <string name="cusRating">Rating</string>
+    <string name="submit">Submit</string>
+    <string name="your_name">Your Name</string>
+    <string name="rate_our_services">Rate Our Services:</string>
+    <string name="comment">comment</string>
+    <string name="submit_rating">submit rating</string>
+
+
+</resources>
