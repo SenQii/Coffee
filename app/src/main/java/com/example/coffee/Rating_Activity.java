@@ -12,7 +12,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textfield.TextInputEditText;
 
-
 public class Rating_Activity extends AppCompatActivity {
 
     private String userName;
